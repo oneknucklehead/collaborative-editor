@@ -1,0 +1,7 @@
+tabs: ["client/src/App.js", "server/server.js"]
+terminal-one: |
+  cd client
+  npm install
+  cd ..
+  npm install
+  npm run dev
