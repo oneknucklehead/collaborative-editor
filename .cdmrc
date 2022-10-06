@@ -2,7 +2,8 @@ tabs: ["client/src/App.js", "server/server.js"]
 terminal-one: |
   cd client
   npm install
-  npm run start 
+  npm start 
 terminal-two: |
+  cd server
   npm install
-  npm run dev
+  npm run server
